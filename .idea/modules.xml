@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/failover.iml" filepath="$PROJECT_DIR$/failover.iml" />
+      <module fileurl="file://$PROJECT_DIR$/failover-ear/failover-ear.iml" filepath="$PROJECT_DIR$/failover-ear/failover-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/failover-ejb/failover-ejb.iml" filepath="$PROJECT_DIR$/failover-ejb/failover-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/failover-web/failover-web.iml" filepath="$PROJECT_DIR$/failover-web/failover-web.iml" />
+    </modules>
+  </component>
+</project>

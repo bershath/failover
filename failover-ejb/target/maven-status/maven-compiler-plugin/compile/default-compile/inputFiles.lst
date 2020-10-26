@@ -1,0 +1,6 @@
+/home/bershath/apps/workspaces/jbds104/failover/failover-ejb/src/main/java/org/jboss/labs/failover/MessageSenderSLSBLocal.java
+/home/bershath/apps/workspaces/jbds104/failover/failover-ejb/src/main/java/org/jboss/labs/failover/StoreJMSDataLocal.java
+/home/bershath/apps/workspaces/jbds104/failover/failover-ejb/src/main/java/org/jboss/labs/failover/StoreJMSData.java
+/home/bershath/apps/workspaces/jbds104/failover/failover-ejb/src/main/java/org/jboss/labs/failover/JMSData.java
+/home/bershath/apps/workspaces/jbds104/failover/failover-ejb/src/main/java/org/jboss/labs/failover/MessageSenderSLSB.java
+/home/bershath/apps/workspaces/jbds104/failover/failover-ejb/src/main/java/org/jboss/labs/failover/ConsumerMDB.java

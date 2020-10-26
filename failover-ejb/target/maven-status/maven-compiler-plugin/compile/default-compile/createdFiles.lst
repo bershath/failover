@@ -1,0 +1,6 @@
+org/jboss/labs/failover/MessageSenderSLSBLocal.class
+org/jboss/labs/failover/StoreJMSData.class
+org/jboss/labs/failover/MessageSenderSLSB.class
+org/jboss/labs/failover/StoreJMSDataLocal.class
+org/jboss/labs/failover/ConsumerMDB.class
+org/jboss/labs/failover/JMSData.class
